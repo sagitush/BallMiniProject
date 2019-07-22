@@ -1,0 +1,10 @@
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\bin\Debug\ball10.7.19.exe.config
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\bin\Debug\ball10.7.19.exe
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\bin\Debug\ball10.7.19.pdb
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10.7.19.csprojAssemblyReference.cache
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10._7._19.Form1.resources
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10._7._19.Properties.Resources.resources
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10.7.19.csproj.GenerateResource.cache
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10.7.19.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10.7.19.exe
+C:\Users\sagit\Source\Repos\ball10.7.19\ball10.7.19\obj\Debug\ball10.7.19.pdb
